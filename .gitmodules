@@ -1,3 +1,0 @@
-[submodule "reinforcement/gym"]
-	path = P3-L16-Reinforcement-Learning/gym
-	url = https://github.com/openai/gym
