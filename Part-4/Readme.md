@@ -1,6 +1,6 @@
 
 # Learning Resources
-- [Generative Adversarial Networks](generative-adversarial-networks)
+- [Generative Adversarial Networks](#generative-adversarial-networks)
 - [One-Shot Learning](#one-shot-learning)
 - [Hyperparameters](#hyperparameters)
 
