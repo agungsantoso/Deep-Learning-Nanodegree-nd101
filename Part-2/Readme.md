@@ -1,7 +1,6 @@
 
 # Learning Resources
 - [RNNs and LSTMs](#rnns-and-lstms)
-- [Intro to Neural Networks](#intro-to-neural-networks)
 - [Sentiment Analysis](#sentiment-analysis)
 - [Mathematics](#mathematics)
 - [CNNs](#cnns)
@@ -19,7 +18,7 @@
 ## Sentiment Analysis
 - [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 - [How is deep learning used in sentiment analysis?](https://www.quora.com/How-is-deep-learning-used-in-sentiment-analysis)
-- [Deep Learning Sentiment One Character at a T-i-m-e](https://gab41.lab41.org/)deep-learning-sentiment-one-character-at-a-t-i-m-e-6cd96e4f780d#.nme2qmtll
+- [Deep Learning Sentiment One Character at a T-i-m-e](https://gab41.lab41.org/deep-learning-sentiment-one-character-at-a-t-i-m-e-6cd96e4f780d#.nme2qmtll)
 - [LSTM Networks for Sentiment Analysis on Tweets](http://k8si.github.io/2016/01/28/)lstm-networks-for-sentiment-analysis-on-tweets.html
 - [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 - Lexical Based Approach (predicting using a prebuilt Lexicon)
@@ -27,9 +26,9 @@
   - [A comparison of Lexicon-based approaches for Sentiment Analysis of microblog posts](http://ceur-ws.org/Vol-1314/paper-06.pdf)
 
 ## Mathematics
-- [Linear Algebra cheatsheet](http://www.souravsengupta.com/cds2016/lectures/)Savov_Notes.pdf
-- [Calculus cheatsheet](http://tutorial.math.lamar.edu/pdf/)Calculus_Cheat_Sheet_All.pdf
-- [Statistics cheatsheet](http://web.mit.edu/~csvoss/Public/usabo/)stats_handout.pdf)
+- [Linear Algebra cheatsheet](http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
+- [Calculus cheatsheet](http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
+- [Statistics cheatsheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
 - [Math for Machine Learning](https://people.ucsc.edu/~praman1/static/pub/math-for-ml.pdf) by Parameswaran Raman
 - [The Mathematics of Deep Learning](http://www.vision.jhu.edu/tutorials/ICCV15-Tutorial-Math-Deep-Learning-Intro-Rene-Joan.pdf) from ICCV Tutorial
 - [The Mathematics of Deep Learning](http://datascience.ibm.com/blog/the-mathematics-of-machine-learning/) from IBM Data Science Experience 
