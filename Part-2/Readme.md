@@ -19,7 +19,7 @@
 - [LSTM Networks for Sentiment Analysis](http://deeplearning.net/tutorial/lstm.html)
 - [How is deep learning used in sentiment analysis?](https://www.quora.com/How-is-deep-learning-used-in-sentiment-analysis)
 - [Deep Learning Sentiment One Character at a T-i-m-e](https://gab41.lab41.org/deep-learning-sentiment-one-character-at-a-t-i-m-e-6cd96e4f780d#.nme2qmtll)
-- [LSTM Networks for Sentiment Analysis on Tweets](http://k8si.github.io/2016/01/28/)lstm-networks-for-sentiment-analysis-on-tweets.html
+- [LSTM Networks for Sentiment Analysis on Tweets](http://k8si.github.io/2016/01/28/lstm-networks-for-sentiment-analysis-on-tweets.html)
 - [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 - Lexical Based Approach (predicting using a prebuilt Lexicon)
   - [Lexicon-Based Methods for Sentiment Analysis](https://www.aclweb.org/anthology/J/J11/J11-2001.pdf)
