@@ -9,6 +9,8 @@
 - [Weight Initialization](#weight-initialization)
 - [Language Translation](#language-translation)
 - [Dynamic Memory Networks](#dynamic-memory-networks)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Variational Autoencoders](#variational-autoencoders)
 
 
 ## RNNs
@@ -89,3 +91,22 @@
 - [Attention And Memory In Deep Learning And Nlp](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
 - [End-To-End Memory Network using Tensorflow](https://github.com/domluna/memn2n)
 
+## Reinforcement Learning
+- Series of [blog posts](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) on reinforcement learning
+- [Human-level control through deep reinforcement learning](http://www.davidqiu.com:8888/research/nature14236.pdf)
+- [An implementation of Deep Q-Network](https://github.com/devsisters/DQN-tensorflow) in TensorFlow
+- [Blog post](https://medium.com/@tuzzer/cart-pole-balancing-with-q-learning-b54c6068d947) on Q-learning and the Cart-Pole game
+- [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) from Andrej Karpathy's blog
+- [Reinforcement learning with policy gradient](http://minpy.readthedocs.io/en/latest/tutorial/rl_policy_gradient_tutorial/rl_policy_gradient.html)
+- [Deep Deterministic Policy Gradients in TensorFlow](http://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html) by Patrick Emami
+- [Simple reinforcement learning methods to learn CartPole](http://kvfrans.com/simple-algoritms-for-solving-cartpole/)
+- [Simple Reinforcement Learning in Tensorflow: Part 1 - Two-armed Bandit](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149)
+- [Multi-Armed Bandits](https://dataorigami.net/blogs/napkin-folding/79031811-multi-armed-bandits) by Cameron Davidson-Pilon
+
+## Variational Autoencoders
+- [Tutorial - What is a variational autoencoder?](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/)
+- [Variational Autoencoders Explained](http://kvfrans.com/variational-autoencoders-explained/) by Miriam Shiffman
+- [Introducing Variational Autoencoders (in Prose and Code)](http://blog.fastforwardlabs.com/2016/08/12/introducing-variational-autoencoders-in-prose-and.html)
+- [Under the Hood of the Variational Autoencoder (in Prose and Code)](http://blog.fastforwardlabs.com/2016/08/22/under-the-hood-of-the-variational-autoencoder-in.html) by Miriam Shiffman
+- [Tutorial: Categorical Variational Autoencoders using Gumbel-Softmax](http://blog.evjang.com/2016/11/tutorial-categorical-variational.html) by Eric Jang
+- [Variational Autoencoder in TensorFlow](https://jmetzen.github.io/2015-11-27/vae.html) by Jan Hendrik Metzen
