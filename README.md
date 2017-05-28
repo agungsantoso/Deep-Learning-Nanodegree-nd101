@@ -1,5 +1,5 @@
 # Deep-Learning-Nanodegree-nd101
-
+#### [Student Community Links](http://bit.ly/dlfndprep)
 
 Learning Resource links
 - [Learning Resources in Part 1](Part-1/Readme.md)
